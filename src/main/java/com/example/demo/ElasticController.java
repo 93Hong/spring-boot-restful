@@ -28,6 +28,6 @@ public class ElasticController {
         client.insertDocument("customer", "external", "4");
     }
 
-    
+
 
 }

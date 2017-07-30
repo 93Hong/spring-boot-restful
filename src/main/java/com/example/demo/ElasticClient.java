@@ -44,6 +44,10 @@ public class ElasticClient {
         System.out.println(response);
     }
 
+    public void getDocument() {
+
+    }
+
     public TransportClient getClient() {
         return client;
     }
